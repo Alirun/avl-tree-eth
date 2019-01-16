@@ -1,0 +1,18 @@
+{
+  "name": "avl-tree-eth",
+  "version": "1.0.0",
+  "description": "AVL Tree Solidity Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test truffle test"
+  },
+  "author": "alirunwwc@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "zos": "^2.0.2",
+    "zos-lib": "^2.0.2"
+  },
+  "devDependencies": {
+    "chai-bignumber": "^3.0.0"
+  }
+}

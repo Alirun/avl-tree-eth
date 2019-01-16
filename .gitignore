@@ -1,0 +1,11 @@
+# NodeJS
+node_modules/
+
+# ZOS
+.zos.session
+
+# MacOS
+.DS_Store/
+
+# Solidity
+build/

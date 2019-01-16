@@ -1,0 +1,8 @@
+{
+  "zosversion": "2",
+  "name": "avl-tree-eth",
+  "version": "1.0.0",
+  "contracts": {
+    "AVLTree": "AVLTree"
+  }
+}
